@@ -1,0 +1,14 @@
+# build output
+build/
+library_chain
+
+# runtime secrets and data: never commit these
+private_key.pem
+public_key.pem
+librarian.dat
+chain.dat
+chain.dat.tmp
+chain.bak
+pending.dat
+pending.dat.tmp
+transactions.dat
